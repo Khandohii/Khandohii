@@ -24,6 +24,8 @@ Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
 ### Recent projects:
 [Marvel-Informational-Portal](https://github.com/Khandohii/Marvel-Informational-Portal)
 
+[Hero-admin-panel](https://github.com/Khandohii/hero-admin-panel)
+
 
 ## My tech stack
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
