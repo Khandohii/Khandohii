@@ -28,6 +28,8 @@ Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
 
 [React-form-demo](https://github.com/Khandohii/react-form-demo)
 
+[Employees-CRUD-demo](https://github.com/Khandohii/employees-CRUD-demo)
+
 
 ## My tech stack
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
