@@ -33,6 +33,7 @@ Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
 
 ### HTML-developing
 [RC-Boss](https://github.com/Khandohii/RC-Boss)
+[Strone-Wallet](https://github.com/Khandohii/Strone-Wallet)
 
 
 ## My tech stack
