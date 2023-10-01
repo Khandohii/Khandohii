@@ -38,6 +38,8 @@ Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
 
 [Metronome](https://github.com/Khandohii/metronome)
 
+[AntGames](https://github.com/Khandohii/AntGames)
+
 
 ## My tech stack
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
