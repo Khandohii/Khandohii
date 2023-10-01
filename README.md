@@ -40,6 +40,8 @@ Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
 
 [AntGames](https://github.com/Khandohii/AntGames)
 
+[Playclaw](https://github.com/Khandohii/playclaw)
+
 
 ## My tech stack
 ![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
