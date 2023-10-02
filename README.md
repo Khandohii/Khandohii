@@ -20,6 +20,10 @@ Master's Degree in Motor Vehicle Transport
 ### How to contact me: 
 Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
 
+OR
+
+<a href="https://www.linkedin.com/in/khandohii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhandohii%2F"/></a>
+
 
 ### Recent projects:
 [Marvel-Informational-Portal](https://github.com/Khandohii/Marvel-Informational-Portal)
