@@ -8,7 +8,7 @@
 
 
 ### My education: 
-Master's Degree in Motor Vehicle Transport
+Master's Degree in Engineering
 
 
 ### Additional education:
