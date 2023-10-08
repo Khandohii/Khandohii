@@ -36,6 +36,10 @@ OR
 
 
 ### HTML-developing
+[Strone-Wallet](https://github.com/Khandohii/Strone-Wallet)
+
+[RC-Boss](https://github.com/Khandohii/RC-Boss)
+
 [Metronome](https://github.com/Khandohii/metronome)
 
 [AntGames](https://github.com/Khandohii/AntGames)
