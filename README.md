@@ -40,6 +40,8 @@ OR
 
 [RC-Boss](https://github.com/Khandohii/RC-Boss)
 
+[Direct.media](https://github.com/Khandohii/direct.media)
+
 [Metronome](https://github.com/Khandohii/metronome)
 
 [AntGames](https://github.com/Khandohii/AntGames)
