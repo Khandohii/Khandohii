@@ -26,6 +26,9 @@ OR
 
 
 ### Recent projects:
+
+[Weather Forecast](https://github.com/Khandohii/weather-forecast)
+
 [Marvel-Informational-Portal](https://github.com/Khandohii/Marvel-Informational-Portal)
 
 [Hero-admin-panel](https://github.com/Khandohii/hero-admin-panel)
