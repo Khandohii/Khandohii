@@ -2,19 +2,7 @@
 
 ### I'm Fornt-end developer
 
-:computer: I’m currently working on freelance
-
-:mag_right: I'm looking for a Front-end developer position in a company
-
-
-### My education: 
-Master's Degree in Engineering
-
-
-### Additional education:
-:white_check_mark: Comprehensive Course on JavaScript + React
-
-:white_check_mark: Online course HTML-developer.
+:computer: I hold a Master's Degree in Motor Vehicle Transport but my passion lies in web development. Over the past 7 years, I have dedicated myself to mastering frontend and full-stack web development through professional courses and hands-on projects. I am skilled in HTML, CSS, JavaScript, React, TypeScript, Redux, WordPress, and WooCommerce. My experience spans creating responsive, mobile-friendly applications, eCommerce platforms, and custom web solutions. I am constantly learning new technologies and thrive in building efficient, scalable web applications.
 <br/>
 
 ### How to contact me: 
