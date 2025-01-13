@@ -15,6 +15,7 @@ OR
 
 ### Recent projects:
 
+#### React
 [Weather Forecast](https://github.com/Khandohii/weather-forecast)
 
 [Marvel-Informational-Portal](https://github.com/Khandohii/Marvel-Informational-Portal)
@@ -26,7 +27,7 @@ OR
 [Employees-CRUD-demo](https://github.com/Khandohii/employees-CRUD-demo)
 
 
-### HTML-development
+#### HTML-development
 [Strone-Wallet](https://github.com/Khandohii/Strone-Wallet)
 
 [RC-Boss](https://github.com/Khandohii/RC-Boss)
