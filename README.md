@@ -1,54 +1,62 @@
-<h1 align="center"><span>Hi there, I'm Dmytro </span> 👋</h1>
+# 👋 Hi, I’m Dmytro Khandohii
 
-### I'm a Frontend developer
+**Frontend Developer** with 7+ years of experience building modern, responsive, and high-performance web and mobile applications.
 
-:computer: I hold a Master's Degree in Motor Vehicle Transport but my passion lies in web development. Over the past 7 years, I have dedicated myself to mastering frontend and full-stack web development through professional courses and hands-on projects. I am skilled in HTML, CSS, JavaScript, React, TypeScript, Redux, WordPress, and WooCommerce. My experience spans creating responsive, mobile-friendly applications, eCommerce platforms, and custom web solutions. I am constantly learning new technologies and thrive in building efficient, scalable web applications.
-<br/>
+🔭 Currently based in Aarhus, Denmark — I build apps using React, React Native, TypeScript & Tailwind CSS, with a focus on robust automated testing (Playwright) and scalable UI architecture.
 
-### How to contact me: 
-Just send email to [dmitry.khandogy@gmail.com](mailto:dmitry.khandogy@gmail.com)
+---
 
-OR
+## 🧩 What I Do Best
 
-<a href="https://www.linkedin.com/in/khandohii/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fkhandohii%2F"/></a>
+- **End‑to‑end Frontend Systems**: Designing and implementing component-driven UIs (web & mobile), delivering in production with CI/CD pipelines
+- **Cross‑Platform Expertise**: Solid experience in React Native + Expo, with custom animations via Reanimated
+- **Performance & UX**: Optimizing load times by 20–30%, ensuring accessibility and seamless experiences
+- **Quality‑First Mindset**: Writing and maintaining automated tests with Playwright and unit tests
+- **Client & Project Leadership**: Managing freelance and team projects from scoping to delivery, mentoring junior developers
 
+---
 
-### Recent projects:
+## 🚀 Core Projects
 
-#### React
-[Weather Forecast](https://github.com/Khandohii/weather-forecast)
+### **🌦 Weather Forecast App**
+Live Demo: [weather-forecast-five-lyart.vercel.app](https://weather-forecast-five-lyart.vercel.app) · Code: [GitHub](https://github.com/Khandohii/weather-forecast)  
+- React-based weather dashboard with real-time API integration  
+- Responsive UI, multi-city tracking, geolocation, and fast data caching  
+- Sub-1s load times on core screens through performance tuning
 
-[Marvel-Informational-Portal](https://github.com/Khandohii/Marvel-Informational-Portal)
+### **👟 Handmade Shoes eCommerce**
+Live Site: [handmade-shoes.com.ua](https://handmade-shoes.com.ua)  
+- Custom-designed **WordPress + WooCommerce** online store for handmade shoes  
+- Built and styled the frontend with responsive, cross-browser compatible layout  
+- Integrated product filtering, shopping cart, and account features with WooCommerce  
+- Optimized for performance and mobile-first design
 
-[Hero-admin-panel](https://github.com/Khandohii/hero-admin-panel)
+### **🎨 IHAVE Landing Site**
+Live Demo: [khandohii.github.io/ihave](https://khandohii.github.io/ihave/) · Code: [GitHub](https://github.com/Khandohii/ihave)  
+- Pixel-perfect, fully responsive multi-section landing page  
+- Built from scratch with **HTML5, CSS3, JavaScript**  
+- Features complex layouts, animations, custom sliders, and interactive UI components  
+- Ensured smooth user experience across devices and browsers
 
-[React-form-demo](https://github.com/Khandohii/react-form-demo)
+---
 
-[Employees-CRUD-demo](https://github.com/Khandohii/employees-CRUD-demo)
+## 🤝 Mentoring & Collaboration
 
+Mentor at [HackYourFuture Denmark](https://hackyourfuture.dk/) since Jan 2024  
+- Guided junior devs in JavaScript, React, HTML/CSS  
+- Assisted with project deliverables and interview readiness
 
-#### HTML-development
-[Strone-Wallet](https://github.com/Khandohii/Strone-Wallet)
+---
 
-[RC-Boss](https://github.com/Khandohii/RC-Boss)
+## 📫 Get In Touch
 
-[Direct.media](https://github.com/Khandohii/direct.media)
+- 📧 **Email**: dmitry.khandogy@gmail.com  
+- 🔗 **LinkedIn**: [linkedin.com/in/khandohii](https://www.linkedin.com/in/khandohii)  
+- 💻 **GitHub**: [github.com/Khandohii](https://github.com/Khandohii)
 
-[Metronome](https://github.com/Khandohii/metronome)
+---
 
-[AntGames](https://github.com/Khandohii/AntGames)
+### ✅ Why work with me?
 
-[Playclaw](https://github.com/Khandohii/playclaw)
-
-
-## My tech stack
-![](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Static Badge](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux)
-![Static Badge](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery)
-![Static Badge](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Static Badge](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress)
+With a blend of **frontend technical excellence**, **project leadership**, and a **testing-first discipline**, I bring value from day one. My passion is crafting UI solutions that are not only beautiful and performant but also maintainable and reliable at scale.
 
