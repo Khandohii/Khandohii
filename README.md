@@ -1,8 +1,7 @@
-# 👋 Hi, I’m Dmytro Khandohii
+## 🧑‍💻 Dmytro Khandohii  
+**Frontend & Web Developer** — React | React Native | WordPress | TypeScript
 
-**Frontend Developer** with 7+ years of experience building modern, responsive, and high-performance web and mobile applications.
-
-🔭 Currently based in Aarhus, Denmark — I build apps using React, React Native, TypeScript & Tailwind CSS, with a focus on robust automated testing (Playwright) and scalable UI architecture.
+Building responsive SPAs, mobile apps, and CMS-powered websites.
 
 ---
 
